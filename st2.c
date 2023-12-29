@@ -20,8 +20,3 @@ int main()
    return 0;
 }
 
-/*
-D:\c>st2
-skill
-lliks
-*/
